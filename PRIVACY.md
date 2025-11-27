@@ -70,3 +70,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy, 
 
 *Last updated: 17-09-2025*
 
+---
+
+*© 2025 GuessTheNumberBot. All Rights Reserved.*
+
