@@ -55,7 +55,7 @@ You may:
 
 To request data deletion or for privacy-related questions, contact the administrators via the official support server:
 
-**Support / Contact:** [Join our Discord server](https://discord.gg/Dk7CmQMXZ3)
+**Support / Contact:** [Join our Discord server](https://discord.gg/nf63Q9PXA8)
 
 When requesting deletion, please provide your Discord ID and a brief description of what you want removed to help us locate the relevant data.
 
@@ -64,7 +64,7 @@ We may update this Privacy Policy periodically. The **Effective Date** at the to
 
 ## 11. Contact
 If you have any questions, concerns, or requests regarding this Privacy Policy, please join our support server:  
-[support server](https://discord.gg/Dk7CmQMXZ3)
+[support server](https://discord.gg/nf63Q9PXA8)
 
 ---
 
