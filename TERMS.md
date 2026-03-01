@@ -141,7 +141,7 @@ You may not resell, rent, redistribute, or commercially exploit the Bot without 
 ## 15. 📌 Contact
 For support or questions, join our official Discord server:
 
-👉 [Discord Server](https://discord.gg/nf63Q9PXA8)
+👉 [Discord Server](https://discord.gg/V3A7brWNZd)
 
 ---
 
