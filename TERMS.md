@@ -39,7 +39,10 @@ The Bot may require certain Discord permissions to function properly, such as:
 - Send Messages  
 - Manage Messages  
 - Manage Roles  
-- Read Message History  
+- Read Message History
+- Manage Channels
+- Embed Links
+- Use External Emoji
 
 By inviting the Bot, you grant these permissions willingly.
 
